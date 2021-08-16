@@ -20,7 +20,7 @@ Le challenge, si vous l'acceptez, serait d'aider Echo à comprendre ce que fait 
 Expliquez, en quelques lignes, ce que fait cette fonction.
 
 #### Réponse
-Cette fonction reçoit en entrée et retourne en sortie un tableau des tableaux de deux entrées. Considérons le tableau comme une route et les tableaux à deux entrées comme des tronçons de la route (entrée à indice 0 : début du tronçon, entrée à indice 1 : fin du tronçon). La fonction permet de retourner les tronçons indépendants sachant que deux tronçons qui se chevauchent (une partie d’un tronçon incluse dans l’autre) sont considérés et retournés comme une seule tronçon.
+**Cette fonction reçoit en entrée et retourne en sortie un tableau des tableaux de deux entrées. Considérons le tableau comme une route et les tableaux à deux entrées comme des tronçons de la route (entrée à indice 0 : début du tronçon, entrée à indice 1 : fin du tronçon). La fonction permet de retourner les tronçons indépendants sachant que deux tronçons qui se chevauchent (une partie d’un tronçon incluse dans l’autre) sont considérés et retournés comme une seule tronçon.**
 
 ### Question 2
 
@@ -32,14 +32,14 @@ Merci de fournir un fichier contenant :
 - l'affichage du résultat en sortie.
 
 #### Réponse
-Voir fichier index.js
+**Voir fichier index.js**
 
 ### Question 3
 
 Précisez en combien de temps vous avez implémenté cette fonction.
 
 #### Réponse
-La fonction a été implémentée en 2h30
+**La fonction a été implémentée en 2h30**
 
 ## Merci
 
